@@ -14,7 +14,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Neoclassica"
 subtitle: "A Framework for Researching Neoclassical Artefacts"
-hero_media: welcome.jpg
+hero_media: top-down-bottom-up.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
