@@ -9,8 +9,8 @@
 #  weight = 10
 
 [[main]]
-  name = "News"
-  url = "post"
+  name = "Framework"
+  url = "framework"
   weight = 20
 
 [[main]]
