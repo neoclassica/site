@@ -11,7 +11,26 @@
 [[main]]
   name = "Framework"
   url = "framework"
+  identifier = "framework"
   weight = 20
+
+[[main]]
+  name = "Ontology"
+  url = "ontology"
+  parent = "framework"
+  weight = 20
+
+[[main]]
+  name = "Annotation"
+  url = "annotation"
+  parent = "framework"
+  weight = 30
+
+[[main]]
+    name = "Knowledge Discovery"
+    url = "knowledge_discovery"
+    parent = "framework"
+    weight = 40
 
 [[main]]
   name = "People"
