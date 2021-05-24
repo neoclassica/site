@@ -8,7 +8,7 @@ active: true
 
 headless: true  # This file represents a page section.
 
-weight: 5
+weight: 10
 
 # ... Put Your Section Options Here (section position etc.) ...
 
