@@ -1,8 +1,11 @@
 ---
 # The slider widget we had in wordpress
-active: true 
 
 widget: slider
+
+# Activate this widget? true/false
+active: true
+
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (section position etc.) ...
