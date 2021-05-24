@@ -1,5 +1,6 @@
 ---
 # The slider widget we had in wordpress
+active: true 
 
 widget: slider
 headless: true  # This file represents a page section.
